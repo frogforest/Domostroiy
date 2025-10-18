@@ -62,7 +62,7 @@ def main():
     print(f"  - {math_task}")
     print(f"  - {finances_task}")
     print(f"  - {toys_task}")
-    print(f"Делу время, потехе - час")
+    print(f"Делу - время, потехе - час")
 
     # Попытка взять задачи
     print("\n=== Попытка взять задачи ===")
