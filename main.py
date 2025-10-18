@@ -1,7 +1,6 @@
-# main.py
 # !/usr/bin/python
 # -*- coding: UTF-8 -*-
-
+#это изменение
 from User import User
 from UserRole import UserRole
 from Task import Task
